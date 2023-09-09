@@ -17,7 +17,9 @@
 
 {"key": "猫咪","name": "🐼大屏┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
-{"key": "花猫","name": "🐼小屏┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
+{"key": "花猫","name": "🐼小屏┃花猫","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
+
+{"key": "七七","name": "小屏┃七七","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/007.json"},
 
 {"key": "douban","name": "苏宁","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
