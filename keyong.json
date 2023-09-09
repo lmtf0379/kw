@@ -13,11 +13,11 @@
 
 {"key": "豆瓣","name": "白沙","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+{"key": "csp_WoGG","name": "👽玩偶┃4K","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
-{"key": "猫咪","name": "🐼猫咪┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
+{"key": "猫咪","name": "🐼大屏┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
-{"key": "花猫","name": "🐼花猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
+{"key": "花猫","name": "🐼小屏┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
 
 {"key": "douban","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
