@@ -6,12 +6,12 @@
 
 {
 
-"warningText":"白沙苏宁提醒：加载失败请换源播放！",    
+"warningText":"白沙苏宁提醒：加载成功！",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "小盒酷玩","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
