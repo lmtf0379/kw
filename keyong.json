@@ -19,7 +19,7 @@
 
 {"key": "花猫","name": "🐼小屏┃花猫","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
 
-{"key": "速播","name": "小屏┃速播","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/速播.json"},
+{"key": "jp","name": "小屏┃jp","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/jp.json"},
 
 {"key": "douban","name": "苏宁","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
