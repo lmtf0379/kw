@@ -19,6 +19,8 @@
 
 {"key": "花猫","name": "🐼花猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
 
+{"key":"来米影视","name":"来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
+
 {"key": "douban","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
