@@ -19,7 +19,7 @@
 
 {"key": "花猫","name": "🐼花猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
 
-{"key":"来米影视","name":"来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
+{"key":"厂长在线","name":"厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
 {"key": "厂长", "name": "厂长影视","type": 3, "api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1, "playerType": 2,  "ext": "https://cz01.me/"},
 
