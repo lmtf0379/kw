@@ -1,8 +1,3 @@
-//全部数据来自网络和各大佬资源整合
-//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ频道：小盒酷玩    
-//公众号：小盒酷玩
-//QQ交流群：817925554
 
 {
 
@@ -20,6 +15,12 @@
 {"key": "花猫","name": "🐼花猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/花猫.json"},
 
 {"key":"来米影视","name":"来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
+
+{"key":"dr_88看球","name":"88看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88看球.js"},
+
+{"key":"dr_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
+
+{"key":"dr_虎牙直播","name":"虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"}
 
 {"key": "douban","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
