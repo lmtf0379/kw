@@ -21,7 +21,7 @@
 
 {"key": "来米","name": "大屏┃来米","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/来米.json"},
 
-{"key":"csp_Kunyu77","name":"🏳️‍🌈七七丨影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/Jar/panda1119.jar;md5;CFA8B6DEE6F44DD7EE4E135935B70F11"},
+{"key": "csp_YQKAPP","name": "一起看","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://api-aws.11ty.top"},
 
 {"key": "douban","name": "苏宁","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
