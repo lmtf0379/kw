@@ -35,17 +35,6 @@
 		},
 {"key": "csp_AppYsV2_光影猫","name": "🆙光影猫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
 
-{
-    "key": "南瓜",
-    "name": "南瓜┃APP",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "http://xhww.fun:63/js/drpy2.min.js",
-    "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
-    "changeable": 0
-},
-
 {"key": "csp_YQKAPP","name": "一起看┃小屏","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://api-aws.11ty.top"}
 
 
