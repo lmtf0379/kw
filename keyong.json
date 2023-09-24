@@ -12,7 +12,7 @@
 {"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
        {
             "key": "南瓜",
-            "name": "🎃南瓜",
+            "name": "🎃南瓜┃卡顿时请切换丶NG速播A丶源",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
