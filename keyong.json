@@ -10,7 +10,7 @@
     },
     {
       "key": "xml_玩偶",
-      "name": "🧙玩偶┃哥哥",
+      "name": "🧙玩偶┃设置EXO播放器观看",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8d0c1f989f8c4aa2931f243ea0e7c8b4",
       "searchable": 1,
