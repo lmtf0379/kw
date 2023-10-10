@@ -56,7 +56,7 @@
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
         },
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
-{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"}
+{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
     {"key": "csp_AppYsV2_光影猫","name": "🆙光影猫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
     {
       "key": "xh",
