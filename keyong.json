@@ -18,17 +18,6 @@
       "filterable": 1
     },
     {
-      "key": "App热剧",
-      "name": "🐄火热┃剧猫",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/热剧猫.js"
-    },
-    {
       "key": "路人",
       "name": "🏃路人┃秒播",
       "type": 3,
@@ -50,26 +39,8 @@
       "ext": "http://cms.jialiangos.com/api.php/app/"
     },
     {
-      "key": "csp_AppYsV2_玉米",
-      "name": "🌽玉米┃切片",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playUrl": "http://61.147.93.21:8090/index.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ym.dytt996.com:3/api.php/app/"
-    },
-    {
-      "key": "熊猫",
-      "name": "🐼熊猫┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/熊猫.json"
-    },
-    {
       "key": "速度",
-      "name": "🚙速度┃秒播",
+      "name": "🚙速度┃切换ff源播放",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -79,11 +50,13 @@
     },
       {
             "key": "南瓜",
-            "name": "🎃南瓜┃卡顿时请切换丶NG速播A丶源",
+            "name": "🎃南瓜┃卡顿时请切换NG速播A或SEVEN源",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
         },
+{"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"}
     {"key": "csp_AppYsV2_光影猫","name": "🆙光影猫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
     {
       "key": "xh",
