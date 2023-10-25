@@ -3,7 +3,7 @@
   "sites": [
 {
       "key": "jszy",
-      "name": "极速资源",
+      "name": "🚄白沙苏宁极速资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "searchable": 1,
@@ -39,7 +39,7 @@
         "欧美综艺"
       ]
     },
-    {"key": "xml_火狐","name": "🚄白沙苏宁┃火狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
+    {"key": "xml_火狐","name": "火狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
 "恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","文艺片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
     {
       "key": "xml_玩偶",
@@ -51,7 +51,7 @@
       "filterable": 1
     },
 { "key":"短剧","name":"🏏短剧┃TV", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/DJ.jar"},
-{"key": "csp_Kuaikan","name": "💡快看┃直链","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/kuaikan.jar"},
+{"key": "csp_Kuaikan","name": "💡快看┃直链","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/kuaikan.jar"},
     {
       "key": "速度",
       "name": "🚙速度┃切换ff源播放",
