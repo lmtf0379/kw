@@ -50,6 +50,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"key": "csp_好戏","name": "🤽好戏┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://leige9042.tpddns.cn:3001/vip//json/好戏.json"},
 {"key": "csp_Kuaikan","name": "💡快看┃直链","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/kuaikan.jar"},
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 {"key": "jiangliang","name": "🌄嘉靓┃APP","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:81/api.php/app/"},
