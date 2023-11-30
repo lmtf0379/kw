@@ -45,15 +45,57 @@
       "key": "xml_玩偶",
       "name": "🧙玩偶┃设置EXO播放器观看",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8d0c1f989f8c4aa2931f243ea0e7c8b4",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=96c39afac0094a6586084751793f3e32",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "NOAD",
+      "name": "🥫NO┃视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/novip.json"
+    },
+    {
+      "key": "csp_疯狗",
+      "name": "🐶疯狗┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/疯狗.json"
+    },
+    {
+      "key": "一起看 ",
+      "name": "👬一起┃看剧",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./lib/一起看.jar?sign=-KAvwDMTjFnwqe_SVxtMSQ_tsPxqTphZJcrv1kdFaFg=:0"
+    },
+    {
+      "key": "酷玩",
+      "name": "🎯酷玩┃云盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "96c39afac0094a6586084751793f3e32",
+        "filter": "./lib/wogg.json"
+      },
+      "jar": "./lib/wogg.jar"
+    },
 {"key": "csp_好戏","name": "🤽好戏┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/好戏.json"},
 {"key": "csp_Kuaikan","name": "💡快看┃直链","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/kuaikan.jar"},
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
-{"key": "jiangliang","name": "🌄嘉靓┃APP","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:81/api.php/app/"},
     {
       "key": "速度",
       "name": "🚙速度┃切换ff源播放",
@@ -72,10 +114,9 @@
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
         },
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xhkw/vip/-/raw/main/json/子子.json"},
-    {"key": "csp_AppYsV2_光影猫","name": "🆙光影猫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
     {
       "key": "xh",
-      "name": "🎯2023.11.5更新",
+      "name": "🎯2023.11.30更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
